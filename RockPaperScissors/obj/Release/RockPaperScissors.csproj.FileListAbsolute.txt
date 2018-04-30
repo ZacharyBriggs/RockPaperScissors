@@ -1,0 +1,10 @@
+C:\Users\s178020\documents\visual studio 2015\Projects\RockPaperScissors\RockPaperScissors\bin\Release\RockPaperScissors.exe.config
+C:\Users\s178020\documents\visual studio 2015\Projects\RockPaperScissors\RockPaperScissors\bin\Release\RockPaperScissors.exe
+C:\Users\s178020\documents\visual studio 2015\Projects\RockPaperScissors\RockPaperScissors\bin\Release\RockPaperScissors.pdb
+C:\Users\s178020\documents\visual studio 2015\Projects\RockPaperScissors\RockPaperScissors\bin\Release\Newtonsoft.Json.dll
+C:\Users\s178020\documents\visual studio 2015\Projects\RockPaperScissors\RockPaperScissors\bin\Release\Newtonsoft.Json.xml
+C:\Users\s178020\documents\visual studio 2015\Projects\RockPaperScissors\RockPaperScissors\obj\Release\RockPaperScissors.Form1.resources
+C:\Users\s178020\documents\visual studio 2015\Projects\RockPaperScissors\RockPaperScissors\obj\Release\RockPaperScissors.Properties.Resources.resources
+C:\Users\s178020\documents\visual studio 2015\Projects\RockPaperScissors\RockPaperScissors\obj\Release\RockPaperScissors.csproj.GenerateResource.Cache
+C:\Users\s178020\documents\visual studio 2015\Projects\RockPaperScissors\RockPaperScissors\obj\Release\RockPaperScissors.exe
+C:\Users\s178020\documents\visual studio 2015\Projects\RockPaperScissors\RockPaperScissors\obj\Release\RockPaperScissors.pdb
